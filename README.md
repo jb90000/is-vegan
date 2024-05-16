@@ -14,14 +14,11 @@ Is-Vegan helps you to find out which food ingredients are vegan / non-vegan. It 
 
 We are aware that 'veganism' and the definition of it can be a hot topic. We created the non-vegan list keeping in mind that veganism in dietary terms, it denotes the practice of dispensing with all products derived wholly or partly from animals.
 
-Our first step is to help people understand which products are vegan - that is, they don't contain any animal products, by-product, or derivatives. 
+Our first step is to help people understand which products are vegan - that is, they don't contain any animal products, by-product, or derivatives. Currently this list is limited to food, and doesn't include any clothes, cosmetics, or other non-food products.
 
-It is not driven about any vegan lifestyle choice or stereotype.
-We welcome and appreciate any help and concerence regarding the nonvegan/canbevegan list.
+We welcome and appreciate any feedback regarding the nonvegan/canbevegan list.
 
-Currently we are unfortunatly not adressing any other forms of exploitation of, and cruelty to, animals for clothing, cosmetics or any other purpose.
-
-**Thank you all for your comments, we appreciate the discussion, as we grow and learn from your input.**
+**Thank you all for your comments - we appreciate the discussion as we grow and learn from your input.**
 
 [All comments on Hacker News](https://news.ycombinator.com/item?id=16316140)
 
